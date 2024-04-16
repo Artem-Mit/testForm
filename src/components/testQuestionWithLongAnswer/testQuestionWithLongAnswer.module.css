@@ -1,0 +1,20 @@
+.fieldset {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  padding: 1rem;
+  margin: 0;
+  border: none;
+  height: 6rem;
+}
+
+.question {
+  padding: 1rem;
+  margin: 0;
+  font-size: large;
+  font-weight: bold;
+}
+
+.textField {
+  width: 50%;
+}

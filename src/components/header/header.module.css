@@ -1,0 +1,17 @@
+.titleContainer {
+  display: flex;
+  gap: 1rem;
+  align-items: end;
+  width: 50%;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.header {
+  margin: 0;
+}
+
+.counter {
+  font-size: 2rem;
+  color: #b71c1c;
+}

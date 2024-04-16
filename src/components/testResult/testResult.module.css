@@ -1,0 +1,23 @@
+.result {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 1rem;
+  font-size: larger;
+}
+
+.header {
+  margin: 0;
+}
+
+.question {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.answer {
+  display: block;
+  font-weight: bolder;
+  color: #2196f3;
+}

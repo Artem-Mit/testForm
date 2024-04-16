@@ -1,0 +1,1 @@
+export { TestQuestionMultiAnswer } from './testQuestionMultiAnswer';

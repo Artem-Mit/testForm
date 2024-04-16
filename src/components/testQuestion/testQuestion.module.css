@@ -1,0 +1,16 @@
+.fieldset {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  padding-left: 1rem;
+  margin: 0;
+  border: none;
+  height: 8rem;
+}
+
+.question {
+  padding: 1rem;
+  margin: 0;
+  font-size: large;
+  font-weight: bold;
+}
